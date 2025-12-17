@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\bin\Debug\net9.0\IELTScalculator.Infrastucture.deps.json
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\bin\Debug\net9.0\IELTScalculator.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\bin\Debug\net9.0\IELTScalculator.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\bin\Debug\net9.0\IELTScalculator.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\bin\Debug\net9.0\IELTScalculator.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScal.DAE68999.Up2Date
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\refint\IELTScalculator.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\IELTScalculator.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Infrastucture\obj\Debug\net9.0\ref\IELTScalculator.Infrastucture.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IELTScalculator.Aplication/IELTScalculator.Aplication.csproj" />
+  <Project Path="IELTScalculator.Client/IELTScalculator.Client.csproj" />
+  <Project Path="IELTScalculator.Domain/IELTScalculator.Domain.csproj" />
+  <Project Path="IELTScalculator.Infrastucture/IELTScalculator.Infrastucture.csproj" />
+</Solution>

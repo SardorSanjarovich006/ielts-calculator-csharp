@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Aplication.deps.json
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Aplication.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Aplication.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\bin\Debug\net9.0\IELTScalculator.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScal.47BD025D.Up2Date
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\refint\IELTScalculator.Aplication.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\IELTScalculator.Aplication.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Aplication\obj\Debug\net9.0\ref\IELTScalculator.Aplication.dll

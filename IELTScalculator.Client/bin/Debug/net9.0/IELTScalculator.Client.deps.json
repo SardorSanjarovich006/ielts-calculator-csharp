@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IELTScalculator.Client/1.0.0": {
+        "dependencies": {
+          "IELTScalculator.Aplication": "1.0.0",
+          "IELTScalculator.Domain": "1.0.0",
+          "IELTScalculator.Infrastucture": "1.0.0"
+        },
+        "runtime": {
+          "IELTScalculator.Client.dll": {}
+        }
+      },
+      "IELTScalculator.Aplication/1.0.0": {
+        "dependencies": {
+          "IELTScalculator.Infrastucture": "1.0.0"
+        },
+        "runtime": {
+          "IELTScalculator.Aplication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IELTScalculator.Domain/1.0.0": {
+        "runtime": {
+          "IELTScalculator.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IELTScalculator.Infrastucture/1.0.0": {
+        "dependencies": {
+          "IELTScalculator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IELTScalculator.Infrastucture.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IELTScalculator.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IELTScalculator.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IELTScalculator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IELTScalculator.Infrastucture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

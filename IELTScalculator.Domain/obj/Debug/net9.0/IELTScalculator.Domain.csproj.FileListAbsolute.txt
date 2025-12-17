@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\bin\Debug\net9.0\IELTScalculator.Domain.deps.json
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\bin\Debug\net9.0\IELTScalculator.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\bin\Debug\net9.0\IELTScalculator.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\IELTScalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\IELTScalculator.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\IELTScalculator.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\IELTScalculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\IELTScalculator.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\refint\IELTScalculator.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\IELTScalculator.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\IELTScalculator\IELTScalculator.Domain\obj\Debug\net9.0\ref\IELTScalculator.Domain.dll
